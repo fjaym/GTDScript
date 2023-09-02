@@ -1,4 +1,4 @@
-#GTD Script - Google Daily Docs Automation
+# GTD Script - Google Daily Docs Automation
 
 A simple automation script using Google Apps Script to generate Google Docs for each weekday based on your Google Calendar events.
 
